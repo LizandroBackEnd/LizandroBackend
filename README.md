@@ -1,16 +1,15 @@
-### ¡Hi!, my name is Lizandro 👋
+<h1 align="center">Hi 👋, I'm Lizandro</span></h1>
+<h1 align="center">As a backend programmer, I love building the 'magic behind the scenes' that makes applications come to life smoothly and efficiently.</h1>                     
 
-<!--
-**LizandroBackEnd/LizandroBackend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate programmer, with a deep love for creating solutions in the realm of backend development. I'm excited to work on projects that challenge my skills and allow me to contribute to technology in meaningful ways. My dedication to programming is driven by a constant pursuit of excellence and improvement in every line of code I write. I'm committed to making the digital world a better place through my passion for backend development.
+
+
+- 🌱 I’m currently learning Python, Laravel, MySql, Boostrap and Css.
+- 📫 How to reach me lizandroantoniosantos@gmail.com
+
+  <h3 align="left">Languages and Tools:</h3>
+
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg">    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg">   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
