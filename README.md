@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://github.com/TuUsuario"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Lizandro;I'm+BackEnd+programmer"></a>
+  <a href="https://github.com/TuUsuario"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=%3Cstrong%3EI'm+Lizandro%3C%2Fstrong%3E;%3Cstrong%3EI'm+BackEnd+programmer%3C%2Fstrong%3E"></a>
 </p>
+
 
 <h1 align="center">As a backend programmer, I love building the 'magic behind the scenes' that makes applications come to life smoothly and efficiently.</h1>                     
 
