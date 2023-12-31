@@ -9,8 +9,7 @@
 <h1 align="center">"I'm a BackEnd programmer with a logical and rational approach. I prioritize problem-solving before writing code, ensuring robust and efficient solutions."</h1>                     
 
 
-
--🌱 I’m currently learning Laravel and Python
+- 🌱 I’m currently learning Laravel and Python
 - 📫 How to reach me lizandroantoniosantos@gmail.com
 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
