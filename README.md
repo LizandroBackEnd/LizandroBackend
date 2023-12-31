@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lizandro</span></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I´m + Lizandro;I´m BackEnd + programer></a>
+</p>
 <h1 align="center">As a backend programmer, I love building the 'magic behind the scenes' that makes applications come to life smoothly and efficiently.</h1>                     
 
 
