@@ -9,7 +9,7 @@
 <h1 align="center">"I'm a BackEnd programmer with a logical and rational approach. I prioritize problem-solving before writing code, ensuring robust and efficient solutions."</h1>                     
 
 
-- 🌱 I’m currently learning Laravel and Python
+- 🌱 I’m currently learning Laravel and Nestjs
 - 📫 How to reach me codeversebackend@gmail.com
 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
@@ -17,7 +17,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,sqlite,python,django,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,python,django,docker" />
   </a>
 </p> 
 
