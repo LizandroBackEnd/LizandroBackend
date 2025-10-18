@@ -17,7 +17,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,php,laravel,python,django,docker,nest,mongo,prisma,aws,kotlin" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,docker,nest,prisma,kotlin,androidstudio" />
   </a>
 </p> 
 
