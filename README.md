@@ -63,10 +63,9 @@ My expertise spans from low-level system programming to building scalable cloud-
 
 
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LizandroBackEnd&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizandroBackEnd&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LizandroBackEnd&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LizandroBackEnd&layout=compact&theme=tokyonight" />
 </p>
 
 ### 🐍 My Contribution Snake
